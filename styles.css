@@ -1,0 +1,107 @@
+body {
+    background-color: peachpuff;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px 20px 20px 20px;
+    width: 100%;
+    max-width: 1500px;
+    height: 100%;
+    margin: 0 auto;
+    border: 5px solid royalblue;
+    border-style: inset;
+    min-height: 100%;
+    min-width: 100%;
+}
+.header {
+    color:rgb(19, 0, 102);
+    font-size: 50px; 
+    text-align: center;
+    margin-top: 20px;
+}
+h2 {
+    color:rgb(35, 37, 141);
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -15px;
+    margin-right: auto;
+    text-align: center;
+}
+li {
+    color:rgb(80, 80, 155);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    list-style: square;
+    margin: 20px auto; 
+    text-align: left;    
+}
+p {
+    font-size: 15px;
+    line-height: 1.5;
+
+}
+li, p {
+    text-align: center;
+    margin: auto;
+    width: 640px; 
+    padding: 10px;
+}      
+.italic {
+    font-style: italic;
+}    
+img {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-bottom: -10px;
+}
+.gaming {
+    height: 250px;
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    display: block;
+    }
+* {
+    box-sizing: border-box
+  }
+footer {
+    text-align-last: center;
+}
+a {
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
